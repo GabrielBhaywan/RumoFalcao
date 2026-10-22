@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 760" role="img" aria-labelledby="title desc">
+<title id="title">Imagem provisória de uma página institucional</title>
+<desc id="desc">Composição conceitual com a identidade azul-marinho e azul da RumoFalcão.</desc>
+<rect width="920" height="760" fill="#EAF1FA"/>
+<circle cx="760" cy="152" r="190" fill="#D6E4F8"/>
+<path d="M0 600C180 520 265 702 455 610s250-119 465-30v180H0Z" fill="#DCE8F7"/>
+<rect x="114" y="98" width="692" height="496" rx="15" fill="#101D35"/>
+<rect x="128" y="112" width="664" height="466" rx="8" fill="#F7F9FC"/>
+<path d="M128 120a8 8 0 0 1 8-8h648a8 8 0 0 1 8 8v34H128Z" fill="#fff"/>
+<circle cx="151" cy="133" r="4" fill="#D6DEE9"/><circle cx="166" cy="133" r="4" fill="#D6DEE9"/><circle cx="181" cy="133" r="4" fill="#D6DEE9"/>
+<rect x="221" y="126" width="256" height="14" rx="7" fill="#EEF2F8"/>
+<rect x="161" y="190" width="350" height="13" rx="6" fill="#D8E1EF"/>
+<text x="161" y="282" fill="#101D35" font-family="Arial,sans-serif" font-size="48" font-weight="700">Sua marca</text>
+<text x="161" y="339" fill="#3478F6" font-family="Arial,sans-serif" font-size="48" font-weight="700">em destaque.</text>
+<rect x="161" y="372" width="320" height="10" rx="5" fill="#AAB8CA"/><rect x="161" y="395" width="285" height="10" rx="5" fill="#C5CFDD"/>
+<rect x="161" y="438" width="156" height="45" rx="5" fill="#3478F6"/><text x="184" y="466" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="700">Saiba mais</text>
+<rect x="565" y="215" width="162" height="193" rx="8" fill="#EAF1FA"/>
+<circle cx="646" cy="278" r="43" fill="#101D35"/><text x="626" y="286" fill="#fff" font-family="Arial,sans-serif" font-size="19" font-weight="700">RF</text>
+<rect x="590" y="345" width="112" height="8" rx="4" fill="#AAB8CA"/><rect x="601" y="363" width="90" height="7" rx="3" fill="#C5CFDD"/>
+<path d="M73 594h774l-47 48H120Z" fill="#101D35"/><rect x="389" y="606" width="144" height="8" rx="4" fill="#52627A"/>
+<rect x="610" y="669" width="220" height="30" rx="15" fill="#fff" stroke="#C9D7E8"/><circle cx="629" cy="684" r="4" fill="#3478F6"/><text x="643" y="688" fill="#64748B" font-family="Arial,sans-serif" font-size="11" letter-spacing="1">IMAGEM PROVISÓRIA</text>
+</svg>
