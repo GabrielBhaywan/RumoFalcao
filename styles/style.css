@@ -925,7 +925,7 @@ h1 span,h2 span{
   bottom: 0;
   left: 0;
   height: 72px;
-  background: var(--ice);
+  background: #fff;
   clip-path: ellipse(75% 100% at 50% 100%);
   content: "";
   pointer-events: none;
